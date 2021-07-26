@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`ContactForm is rendering renders 1`] = `
+exports[`Contact component renders 1`] = `
 <DocumentFragment>
   <section>
     <h1
@@ -47,7 +47,7 @@ exports[`ContactForm is rendering renders 1`] = `
         />
       </div>
       <button
-        data-testid="buttontag"
+        data-testid="button"
         type="submit"
       >
         Submit
